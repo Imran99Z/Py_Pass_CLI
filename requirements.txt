@@ -1,0 +1,9 @@
+cffi==2.0.0
+cryptography==46.0.3
+jaraco.classes==3.4.0
+jaraco.context==6.0.1
+jaraco.functools==4.3.0
+keyring==25.7.0
+more-itertools==10.8.0
+pycparser==2.23
+pywin32-ctypes==0.2.3
