@@ -12,8 +12,9 @@ Simple 3-file module password vault with encryption, Master Password and Data en
 
 # Code Requirements; 
 - Install Cryptography 
-- Command 
-        pip install -r requirements.txt
+- Command; pip install -r requirements.txt
+- Must be in Download Directory 
+
 
 # Run Program;
 - Download all 3 Files. 
