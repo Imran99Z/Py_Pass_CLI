@@ -22,4 +22,4 @@ Simple 3-file module password vault with encryption, Master Password and Data en
 - Note all files must be in the in same directory to be run
 
 # Reflection; 
-- While creating this program the most challenging part with figuring out what I wanted the code to do. Once I figured on a simple CLI interface my next biggest hurdle was configuring encryption with fernet, setting to master password. What was most challenging about this project were the modular imports, ensuring the vault key program worked. I found this to be a very exciting project putting my python knowledge to the test. 
+While creating this program, the hardest part for me was figuring out exactly what I wanted the code to do. Once I decided on a simple CLI interface, my next challenge was setting up encryption with Fernet and connecting it properly to the master password system. The most tricky part was managing the modular imports and making sure the vault key and encryption worked properly across all files. Overall, I found this project really exciting—it was a great way to put my Python skills to the test and see everything I learned come together in a functional program.
